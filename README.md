@@ -9,7 +9,7 @@
   <br />
   
   <code><img width="15%"  src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-  <code><img width="15%"  src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
   
   <br />
   
