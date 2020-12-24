@@ -17,7 +17,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   
   <br />
-  
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" ></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
   
   <br />
