@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">My Skills :computer:</h3>
+<h2>My Skills :computer:</h2>
  <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" ></code>
   <code><img width="7%" src="https://raw.githubusercontent.com/gilbarbara/logos/febeadf1e00d13280605d6f571cea949713963f8/logos/css-3.svg" ></code>
@@ -31,9 +31,4 @@
 <!--
 **gabrielferreira0/gabrielferreira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-Teste 
-About me
-Teste
 -->
