@@ -2,7 +2,8 @@
 
 
 
-My Skills :computer:
+
+<h3 align="center">My Skills :computer:</h3>
  <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" ></code>
   <code><img width="7%" src="https://raw.githubusercontent.com/gilbarbara/logos/febeadf1e00d13280605d6f571cea949713963f8/logos/css-3.svg" ></code>
