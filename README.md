@@ -1,6 +1,16 @@
 <h1 align="center" >Hi 👋, I'm Gabriel </h1>
-
  <img align='middle' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ 
+ 
+ 
+ <div align = "center">
+  <h1 align="center" >Hi 👋, I'm Gabriel </h1>
+  <img align='middle' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+ </div>
+ <div align = "center"> 
+</div>
+
+ 
 
 
 <h2>My Skills :computer:</h2>
