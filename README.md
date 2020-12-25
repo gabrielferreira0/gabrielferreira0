@@ -8,7 +8,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
+- 🎓 &nbsp; Studying information systems.
 
 <h2>My Skills :computer:</h2>
  <p>
