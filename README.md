@@ -11,7 +11,7 @@
 - 🎓 &nbsp; Studying information systems.
 
 <h2>My Skills :computer:</h2>
- <p>
+ <p aling="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" ></code>
   <code><img width="7%" src="https://raw.githubusercontent.com/gilbarbara/logos/febeadf1e00d13280605d6f571cea949713963f8/logos/css-3.svg" ></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
