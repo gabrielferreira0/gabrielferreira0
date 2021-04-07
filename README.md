@@ -31,7 +31,9 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
   
   <br />
-  
+ 
+ 
+ <br>
   
   <p align="center">
   <a href="https://github.com/gabrielferreira0/github-readme-stats">
