@@ -33,6 +33,25 @@
   <br />
   
   
+  <p align="center">
+  <a href="https://github.com/gabrielferreira0/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielferreira0&layout=compact&&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919"
+    />
+  </a>
+  <a href="https://github.com/gabrielferreira0/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielferreira0&show_icons=true&hide_border_color=ffffff&theme=radical"
+    />
+  </a>
+</p>
+
+
+  
+  
  </p>
 
 <!--
