@@ -26,13 +26,17 @@
 
 
 
- 
- 
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" ></code>
+ <p >
+   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" ></code>
   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" ></code>
   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   
+ </div>
+
+
+ 
+ 
   <br />
   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" ></code>
   <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
