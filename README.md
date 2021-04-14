@@ -43,7 +43,7 @@
  </div>
 
   
-  <p>
+  <p  align="center" >
   <a href="https://github.com/gabrielferreira0/github-readme-stats">
     <img
       align="center"
