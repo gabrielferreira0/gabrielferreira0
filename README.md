@@ -1,7 +1,7 @@
 
  <div align = "center">
   <h1 align="center" >Hi 👋, I'm Gabriel </h1>
-  <img align='center' alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align='center'  src="https://i.pinimg.com/564x/96/88/02/968802f0a0c28d010805d718ede06ebf.jpg" />
  </div>
 
 
