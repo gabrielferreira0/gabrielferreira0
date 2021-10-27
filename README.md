@@ -21,7 +21,7 @@
   <code><img   align="center" alt="CSS" title="CSS" width="15%"   height="70" src="./.github/images/CSS.svg"></code>
   <code><img   align="center" alt="JS" title="JS" width="15%"   height="70" src="./.github/images/Javascript.svg"></code>
 
-  <code><img   align="center" width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <code><img   align="center" alt="Bootstrap" title="Bootstrap" width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
  
  </div>
@@ -31,17 +31,17 @@
  <p >
   
   <code><img   align="center" alt="PHP" title="PHP" width="15%"   height="70" src="./.github/images/PHP.svg"></code>
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" ></code>
+  <code><img align="center" alt="Jquery" title="Jquery" width="15%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" ></code>
   <code><img   align="center" alt="PostgreSQL" title="PostgreSQL" width="15%"   height="70" src="./.github/images/PostgreSQL.svg"></code>
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img align="center"  alt="MySQL" title="MySQL"  width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   
  </div>
  
  
  <div align = "center">
   <br />
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" ></code>
-  <code><img align="center" width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
+  <code><img align="center"  alt="Java" title="Java"  width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" ></code>
+  <code><img align="center"   alt="Trello" title="Trello" width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
   <br />  
  </div>
 
@@ -51,7 +51,7 @@
 <div  align="center" >
 <code><img alt="TypesCript" title="TS" height="48" src="./.github/images/Typescript.svg"></code>
 <code><img alt="React" title="React" height="52" src="./.github/images/React.svg"></code>
-<code><img alt="Next" title="Next" height="52" src="./.github/images/Next.svg"></code>
+<code><img alt="Next JS" title="Next JS" height="52" src="./.github/images/Next.svg"></code>
 <code><img alt="SASS" title="SASS" height="52" src="./.github/images/SASS.svg"></code>
 
    <br />
