@@ -47,7 +47,7 @@
 
 <h2 align="center">Studying and improving</h2>
 
-<p >
+
 <div  align="center" >
 <code><img alt="TypesCript" title="TS" height="48" src="./.github/images/Typescript.svg"></code>
 <code><img alt="React" title="React" height="52" src="./.github/images/React.svg"></code>
@@ -55,7 +55,8 @@
 <code><img alt="SASS" title="SASS" height="52" src="./.github/images/SASS.svg"></code>
 
    <br />
-
+  <br />
+  <br />
   
   <p  align="center" >
   <a href="https://github.com/gabrielferreira0/github-readme-stats">
