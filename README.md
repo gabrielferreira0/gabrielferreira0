@@ -40,7 +40,7 @@
  
  <div align = "center">
   <br />
-  <code><img align="center"  alt="Java" title="Java"  width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" ></code>
+  <code><img align="center"  alt="Laravel" title="Laraevl"  width="15%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" ></code>
   <code><img align="center"   alt="Trello" title="Trello" width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" ></code>
   <br />  
  </div>
